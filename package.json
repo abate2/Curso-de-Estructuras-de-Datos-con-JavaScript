@@ -1,0 +1,25 @@
+{
+  "name": "curso-de-estructuras-de-datos-con-javascript",
+  "version": "1.0.0",
+  "description": "Curso de estructura de datos JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abate2/Curso-de-Estructuras-de-Datos-con-JavaScript.git"
+  },
+  "keywords": [
+    "javaScript",
+    "Lo",
+    "logre",
+    "datos"
+  ],
+  "author": "abate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abate2/Curso-de-Estructuras-de-Datos-con-JavaScript/issues"
+  },
+  "homepage": "https://github.com/abate2/Curso-de-Estructuras-de-Datos-con-JavaScript#readme"
+}
